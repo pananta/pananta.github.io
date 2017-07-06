@@ -25,3 +25,18 @@ font-size: 50px
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
+.gallery_container{
+  position: relative;
+}
+.images{
+}
+.discription{
+position: absolute;
+bottom: 0px;
+background-color:#5e6166;
+width: 100%;
+color: white;
+opacity: 0.8;
+padding: 10px;
+font-weight: bolder;
+}
