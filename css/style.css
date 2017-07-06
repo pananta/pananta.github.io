@@ -1,0 +1,27 @@
+.social_icons{
+  position: absolute;
+  top:50px;
+  right: 0px;
+  color: red;
+  }
+
+.fa:visited{
+  color: blue
+
+}
+.fa:hover{
+font-size: 50px
+}
+.fa:active{
+  color: red
+}
+.quote{
+  padding: 30px;
+  font-size: 40px;
+  color: white;
+  text-align: center;
+  font-style: italic;
+  background-image: url('http://www.planwallpaper.com/static/images/WDF_1191963.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
